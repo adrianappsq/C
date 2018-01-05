@@ -1,3 +1,5 @@
+//Programul autobuzelor care pleaca din Autogara Militari contine, pentru fiecare cursa in parte, ora de plecare sub forma hh:mm:ss, precum si durata acesteia, in aceeasi forma. Afisati ora de sosire a unei curse, tot sub forma de mai sus.
+
 #include <stdio.h>
 
 // ora plecare: 12:30:40

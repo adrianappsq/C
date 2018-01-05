@@ -1,3 +1,5 @@
+//Intr-o anumita zi a saptamanii, toti cei n studenti ai Facultatii de Informatica sunt prezenti la cursuri, insa fiecare intr-un anumit interval orar de forma [a,b] , unde a,b apartine lui N si a < b .Decanul Facultatii doreste sa convoace o sedinta la care sa participe toti studentii. Pentru a-l ajuta, scrieti un program care sa determine intervalul orar din ziua respectiva în care sunt prezenti in Facultate toti studentii. 
+
 #include <stdio.h>
 int max (int x , int y){
 return x>y? x:y;

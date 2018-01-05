@@ -1,4 +1,8 @@
 #include <stdio.h>
+//Un vector format din n numere intregi se numeste vector creasta daca exista un indice p astfel incat v[0]<=v[1]<=...<=v[p] si v[p]>=v[p+1]>=...>=v[n-1].
+//Scrieti un program care citeste un vector format din n numere intregi si verifica daca este vector creasta sau nu.\n
+
+
 #define CRESTERE 0
 #define DESCRESTERE 1
 #define NU_E_CREASTA 2

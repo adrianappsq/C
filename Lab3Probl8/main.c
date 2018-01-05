@@ -1,3 +1,5 @@
+//Se citesc CNP-urile a studenti dintr-o facultate. Sa se afiseze cate studente si cati studenti sunt in facultatea respectiva, precum si varsta lor medie.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

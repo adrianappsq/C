@@ -1,4 +1,4 @@
-//Se citeşte un tablou unidimensional format din n numere întregi. Să se afişeze cele mai mari m valori distincte din tablou în ordine crescătoare şi cele mai mici k valori distincte în ordine descrescătoare.
+//Se citeste un tablou unidimensional format din n numere intregi. Sa se afiseze cele mai mari m valori distincte din tablou in ordine crescatoare si cele mai mici k valori distincte in ordine descrescatoare.
 
 #include <stdio.h>
 #include <stdlib.h>
